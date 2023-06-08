@@ -1,0 +1,69 @@
+[INFO] 07-06-2023 23:45:59 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 07-06-2023 23:45:59 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 07-06-2023 23:46:08 [Log] - Verify element visible By.id: email
+[INFO] 07-06-2023 23:46:09 [Log] - Clear value in textbox By.id: email
+[INFO] 07-06-2023 23:46:09 [Log] - Verify element visible By.id: email
+[INFO] 07-06-2023 23:46:09 [Log] - Set text admin@demo.com on By.id: email
+[INFO] 07-06-2023 23:46:09 [Log] - Verify element visible By.id: password
+[INFO] 07-06-2023 23:46:09 [Log] - Clear value in textbox By.id: password
+[INFO] 07-06-2023 23:46:09 [Log] - Verify element visible By.id: password
+[INFO] 07-06-2023 23:46:10 [Log] - Set text riseDemo on By.id: password
+[INFO] 07-06-2023 23:46:10 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 07-06-2023 23:46:13 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 07-06-2023 23:46:14 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 07-06-2023 23:46:18 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 07-06-2023 23:46:18 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 07-06-2023 23:46:18 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 07-06-2023 23:46:25 [Log] - Upload File With Local Form: C:\Users\Admin\Downloads\webUI.docx
+[INFO] 07-06-2023 23:46:26 [Log] - Verify element visible By.xpath: //div[@id='uploaded-file-previews']/div/div[2]/strong
+[INFO] 07-06-2023 23:46:28 [Log] - Verify Equals: File type is not allowed. = File type is not allowed.
+[INFO] 07-06-2023 23:46:28 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 07-06-2023 23:46:28 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 07-06-2023 23:46:34 [Log] - Verify element visible By.id: email
+[INFO] 07-06-2023 23:46:34 [Log] - Clear value in textbox By.id: email
+[INFO] 07-06-2023 23:46:34 [Log] - Verify element visible By.id: email
+[INFO] 07-06-2023 23:46:35 [Log] - Set text admin@demo.com on By.id: email
+[INFO] 07-06-2023 23:46:35 [Log] - Verify element visible By.id: password
+[INFO] 07-06-2023 23:46:35 [Log] - Clear value in textbox By.id: password
+[INFO] 07-06-2023 23:46:35 [Log] - Verify element visible By.id: password
+[INFO] 07-06-2023 23:46:35 [Log] - Set text riseDemo on By.id: password
+[INFO] 07-06-2023 23:46:35 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 07-06-2023 23:46:39 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 07-06-2023 23:46:40 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 07-06-2023 23:46:41 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 07-06-2023 23:46:42 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 07-06-2023 23:46:42 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 07-06-2023 23:46:48 [Log] - Upload File With Local Form: C:\Users\Admin\Downloads\ExcelReader.txt
+[INFO] 07-06-2023 23:46:49 [Log] - Verify element visible By.xpath: //div[@id='uploaded-file-previews']/div/div[2]/strong
+[INFO] 07-06-2023 23:46:50 [Log] - Verify Equals: Please upload a excel file. (.xlsx) = Please upload a excel file. (.xlsx)
+[INFO] 07-06-2023 23:46:51 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 07-06-2023 23:46:51 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 07-06-2023 23:46:57 [Log] - Verify element visible By.id: email
+[INFO] 07-06-2023 23:46:57 [Log] - Clear value in textbox By.id: email
+[INFO] 07-06-2023 23:46:57 [Log] - Verify element visible By.id: email
+[INFO] 07-06-2023 23:46:57 [Log] - Set text admin@demo.com on By.id: email
+[INFO] 07-06-2023 23:46:57 [Log] - Verify element visible By.id: password
+[INFO] 07-06-2023 23:46:57 [Log] - Clear value in textbox By.id: password
+[INFO] 07-06-2023 23:46:57 [Log] - Verify element visible By.id: password
+[INFO] 07-06-2023 23:46:58 [Log] - Set text riseDemo on By.id: password
+[INFO] 07-06-2023 23:46:58 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 07-06-2023 23:47:02 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 07-06-2023 23:47:03 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 07-06-2023 23:47:05 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 07-06-2023 23:47:05 [Log] - Verify element visible By.partialLinkText: Import clien
+[INFO] 07-06-2023 23:47:06 [Log] - Click on element By.partialLinkText: Import clien
+[INFO] 07-06-2023 23:47:12 [Log] - Upload File With Local Form: C:\Users\Admin\Downloads\yamada.jpg
+[INFO] 07-06-2023 23:47:13 [Log] - Verify element visible By.xpath: //div[@id='uploaded-file-previews']/div/div[2]/strong
+[INFO] 07-06-2023 23:47:14 [Log] - Verify Equals: Please upload a excel file. (.xlsx) = Please upload a excel file. (.xlsx)
+[INFO] 07-06-2023 23:47:15 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 07-06-2023 23:47:15 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 07-06-2023 23:47:23 [Log] - Verify element visible By.id: email
+[INFO] 07-06-2023 23:47:23 [Log] - Clear value in textbox By.id: email
+[INFO] 07-06-2023 23:47:23 [Log] - Verify element visible By.id: email
+[INFO] 07-06-2023 23:47:23 [Log] - Set text admin@demo.com on By.id: email
+[INFO] 07-06-2023 23:47:23 [Log] - Verify element visible By.id: password
+[INFO] 07-06-2023 23:47:23 [Log] - Clear value in textbox By.id: password
+[INFO] 07-06-2023 23:47:23 [Log] - Verify element visible By.id: password
+[INFO] 07-06-2023 23:47:24 [Log] - Set text riseDemo on By.id: password
+[INFO] 07-06-2023 23:47:24 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 07-06-2023 23:47:27 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']

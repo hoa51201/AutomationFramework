@@ -1,0 +1,89 @@
+[INFO] 06-06-2023 23:09:11 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 06-06-2023 23:09:11 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 06-06-2023 23:09:18 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:09:18 [Log] - Clear value in textbox By.id: email
+[INFO] 06-06-2023 23:09:18 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:09:18 [Log] - Set text admin@demo.com on By.id: email
+[INFO] 06-06-2023 23:09:18 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:09:18 [Log] - Clear value in textbox By.id: password
+[INFO] 06-06-2023 23:09:18 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:09:18 [Log] - Set text riseDemo on By.id: password
+[INFO] 06-06-2023 23:09:18 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:09:21 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:09:22 [Log] - Verify Equals: Dashboard | RISE - Ultimate Project Manager and CRM = Dashboard | RISE - Ultimate Project Manager and CRM
+[INFO] 06-06-2023 23:09:22 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 06-06-2023 23:09:22 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 06-06-2023 23:09:28 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:09:28 [Log] - Clear value in textbox By.id: email
+[INFO] 06-06-2023 23:09:28 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:09:28 [Log] - Set text  on By.id: email
+[INFO] 06-06-2023 23:09:28 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:09:28 [Log] - Clear value in textbox By.id: password
+[INFO] 06-06-2023 23:09:28 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:09:28 [Log] - Set text  on By.id: password
+[INFO] 06-06-2023 23:09:28 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:09:29 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:09:29 [Log] - Verify element visible By.id: email-error
+[INFO] 06-06-2023 23:09:30 [Log] - Verify Equals: This field is required. = This field is required.
+[INFO] 06-06-2023 23:09:30 [Log] - Verify element visible By.id: password-error
+[INFO] 06-06-2023 23:09:31 [Log] - Verify Equals: This field is required. = This field is required.
+[INFO] 06-06-2023 23:09:31 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 06-06-2023 23:09:31 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 06-06-2023 23:09:38 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:09:38 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:09:38 [Log] - Clear and Fill admin on By.id: email
+[INFO] 06-06-2023 23:09:38 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:09:38 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:09:38 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 06-06-2023 23:09:38 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:09:38 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:09:39 [Log] - Verify element visible By.id: email-error
+[INFO] 06-06-2023 23:09:40 [Log] - Verify Equals: Please enter a valid email address. = Please enter a valid email address.
+[INFO] 06-06-2023 23:09:40 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 06-06-2023 23:09:40 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 06-06-2023 23:09:46 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:09:46 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:09:46 [Log] - Clear and Fill admin@@demo.com on By.id: email
+[INFO] 06-06-2023 23:09:46 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:09:46 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:09:46 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 06-06-2023 23:09:46 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:09:46 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:09:46 [Log] - Verify element visible By.id: email-error
+[INFO] 06-06-2023 23:09:47 [Log] - Verify Equals: Please enter a valid email address. = Please enter a valid email address.
+[INFO] 06-06-2023 23:09:48 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 06-06-2023 23:09:48 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 06-06-2023 23:09:53 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:09:53 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:09:54 [Log] - Clear and Fill @demo.com on By.id: email
+[INFO] 06-06-2023 23:09:54 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:09:54 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:09:54 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 06-06-2023 23:09:54 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:09:54 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:09:54 [Log] - Verify element visible By.id: email-error
+[INFO] 06-06-2023 23:09:55 [Log] - Verify Equals: Please enter a valid email address. = Please enter a valid email address.
+[INFO] 06-06-2023 23:09:55 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 06-06-2023 23:09:55 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 06-06-2023 23:10:01 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:10:01 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:10:01 [Log] - Clear and Fill admin11@demo.com on By.id: email
+[INFO] 06-06-2023 23:10:01 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:10:01 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:10:02 [Log] - Clear and Fill riseDemo on By.id: password
+[INFO] 06-06-2023 23:10:02 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:10:03 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:10:03 [Log] - Verify element visible By.xpath: //div[@role='alert']
+[INFO] 06-06-2023 23:10:04 [Log] - Verify Equals: Authentication failed! = Authentication failed!
+[INFO] 06-06-2023 23:10:04 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 06-06-2023 23:10:05 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 06-06-2023 23:10:11 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:10:11 [Log] - Verify element visible By.id: email
+[INFO] 06-06-2023 23:10:11 [Log] - Clear and Fill admin@demo.com on By.id: email
+[INFO] 06-06-2023 23:10:11 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:10:11 [Log] - Verify element visible By.id: password
+[INFO] 06-06-2023 23:10:11 [Log] - Clear and Fill riseDemo1 on By.id: password
+[INFO] 06-06-2023 23:10:11 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:10:13 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 06-06-2023 23:10:13 [Log] - Verify element visible By.xpath: //div[@role='alert']
+[INFO] 06-06-2023 23:10:14 [Log] - Verify Equals: Authentication failed! = Authentication failed!

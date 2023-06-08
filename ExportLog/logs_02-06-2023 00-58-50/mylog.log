@@ -1,0 +1,23 @@
+[INFO] 02-06-2023 00:58:54 [WebDriverManager] - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+[INFO] 02-06-2023 00:58:54 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+[INFO] 02-06-2023 00:59:05 [Log] - Verify element visible By.id: email
+[INFO] 02-06-2023 00:59:05 [Log] - Clear value in textbox By.id: email
+[INFO] 02-06-2023 00:59:05 [Log] - Verify element visible By.id: email
+[INFO] 02-06-2023 00:59:05 [Log] - Set text admin@demo.com on By.id: email
+[INFO] 02-06-2023 00:59:06 [Log] - Verify element visible By.id: password
+[INFO] 02-06-2023 00:59:06 [Log] - Clear value in textbox By.id: password
+[INFO] 02-06-2023 00:59:06 [Log] - Verify element visible By.id: password
+[INFO] 02-06-2023 00:59:06 [Log] - Set text riseDemo on By.id: password
+[INFO] 02-06-2023 00:59:06 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 02-06-2023 00:59:09 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[ERROR] 02-06-2023 00:59:21 [Log] - Element not exist. By.xpath: //span[contains(text(),'Clients')]
+[INFO] 02-06-2023 00:59:21 [Log] - No Folder: F:\Eclipse\buihanh-doanTN-BDD\ExportData/Images
+[INFO] 02-06-2023 00:59:21 [Log] - Folder created: F:\Eclipse\buihanh-doanTN-BDD\ExportData\Images
+[INFO] 02-06-2023 00:59:21 [Log] - Driver for Screenshot: ChromeDriver: chrome on WINDOWS (1932c271ab951f938bdae9e0f2e69c47)
+[INFO] 02-06-2023 00:59:22 [WebDriverManager] - Using chromedriver 113.0.5672.63 (resolved driver for Chrome 113)
+[INFO] 02-06-2023 00:59:22 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\113.0.5672.63\chromedriver.exe
+[INFO] 02-06-2023 00:59:27 [Log] - Driver for Screenshot: ChromeDriver: chrome on WINDOWS (dcd1734e37e299e045b24952c144056e)
+[INFO] 02-06-2023 00:59:27 [Log] - Zipped video successfully !!
+[INFO] 02-06-2023 00:59:27 [Log] - Zipped log successfully !!
+[INFO] 02-06-2023 00:59:27 [Log] - Zipped report successfully !!
+[INFO] 02-06-2023 00:59:48 [Log] - Send message to Telegram: Send report!

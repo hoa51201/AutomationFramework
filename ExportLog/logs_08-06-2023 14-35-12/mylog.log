@@ -1,0 +1,51 @@
+[INFO] 08-06-2023 14:35:15 [WebDriverManager] - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+[INFO] 08-06-2023 14:35:15 [WebDriverManager] - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+[INFO] 08-06-2023 14:35:27 [Log] - Verify element visible By.id: email
+[INFO] 08-06-2023 14:35:27 [Log] - Clear value in textbox By.id: email
+[INFO] 08-06-2023 14:35:27 [Log] - Verify element visible By.id: email
+[INFO] 08-06-2023 14:35:27 [Log] - Set text admin@demo.com on By.id: email
+[INFO] 08-06-2023 14:35:27 [Log] - Verify element visible By.id: password
+[INFO] 08-06-2023 14:35:27 [Log] - Clear value in textbox By.id: password
+[INFO] 08-06-2023 14:35:27 [Log] - Verify element visible By.id: password
+[INFO] 08-06-2023 14:35:28 [Log] - Set text riseDemo on By.id: password
+[INFO] 08-06-2023 14:35:28 [Log] - Verify element visible By.xpath: //button[normalize-space()='Sign in']
+[INFO] 08-06-2023 14:35:33 [Log] - Click on element By.xpath: //button[normalize-space()='Sign in']
+[INFO] 08-06-2023 14:35:35 [Log] - Verify element visible By.xpath: //span[contains(text(),'Clients')]
+[INFO] 08-06-2023 14:35:37 [Log] - Click on element By.xpath: //span[contains(text(),'Clients')]
+[INFO] 08-06-2023 14:35:40 [Log] - Verify element visible By.xpath: //a[contains(text(),'Clients')]
+[INFO] 08-06-2023 14:35:40 [Log] - Click on element By.xpath: //a[contains(text(),'Clients')]
+[INFO] 08-06-2023 14:35:45 [Log] - Verify element visible By.xpath: //a[normalize-space()='Add client']
+[INFO] 08-06-2023 14:35:46 [Log] - Click on element By.xpath: //a[normalize-space()='Add client']
+[INFO] 08-06-2023 14:35:46 [Log] - Verify element visible By.xpath: //input[@id='company_name']
+[INFO] 08-06-2023 14:35:46 [Log] - Set text hanh on By.xpath: //input[@id='company_name']
+[INFO] 08-06-2023 14:35:46 [Log] - Verify element visible By.xpath: //div[@id='s2id_created_by']
+[INFO] 08-06-2023 14:35:46 [Log] - Click on element By.xpath: //div[@id='s2id_created_by']
+[INFO] 08-06-2023 14:35:47 [Log] - Verify element visible By.xpath: //div[@id='select2-drop']//input
+[INFO] 08-06-2023 14:35:47 [Log] - Set text Mark Thomas on By.xpath: //div[@id='select2-drop']//input
+[INFO] 08-06-2023 14:35:47 [Log] - Verify element visible By.xpath: (//div[contains(@id,'select2-result-label')])[1]
+[INFO] 08-06-2023 14:35:47 [Log] - Click on element By.xpath: (//div[contains(@id,'select2-result-label')])[1]
+[INFO] 08-06-2023 14:35:47 [Log] - Verify element visible By.xpath: //textarea[@id='address']
+[INFO] 08-06-2023 14:35:47 [Log] - Set text Hung Yen on By.xpath: //textarea[@id='address']
+[INFO] 08-06-2023 14:35:47 [Log] - Verify element visible By.xpath: //input[@id='city']
+[INFO] 08-06-2023 14:35:47 [Log] - Set text Hung Yen on By.xpath: //input[@id='city']
+[INFO] 08-06-2023 14:35:47 [Log] - Verify element visible By.xpath: //input[@id='state']
+[INFO] 08-06-2023 14:35:48 [Log] - Set text Phuong Chieu on By.xpath: //input[@id='state']
+[INFO] 08-06-2023 14:35:48 [Log] - Verify element visible By.xpath: //input[@id='zip']
+[INFO] 08-06-2023 14:35:48 [Log] - Set text 870000 on By.xpath: //input[@id='zip']
+[INFO] 08-06-2023 14:35:48 [Log] - Verify element visible By.xpath: //input[@id='country']
+[INFO] 08-06-2023 14:35:48 [Log] - Set text Vietnam on By.xpath: //input[@id='country']
+[INFO] 08-06-2023 14:35:48 [Log] - Verify element visible By.xpath: //input[@id='phone']
+[INFO] 08-06-2023 14:35:48 [Log] - Set text 0939206009 on By.xpath: //input[@id='phone']
+[INFO] 08-06-2023 14:35:48 [Log] - Verify element visible By.xpath: //input[@id='website']
+[INFO] 08-06-2023 14:35:49 [Log] - Set text https://rise.fairsketch.com/ on By.xpath: //input[@id='website']
+[INFO] 08-06-2023 14:35:50 [Log] - Scroll to element By.xpath: //input[@id='vat_number']
+[INFO] 08-06-2023 14:35:50 [Log] - Set text 10 on By.xpath: //input[@id='vat_number']
+[INFO] 08-06-2023 14:35:50 [Log] - Verify element visible By.xpath: (//label[normalize-space()='Client groups']/following-sibling::div//input)[1]
+[INFO] 08-06-2023 14:35:50 [Log] - Set text VIP on By.xpath: (//label[normalize-space()='Client groups']/following-sibling::div//input)[1]
+[INFO] 08-06-2023 14:35:50 [Log] - Verify element visible By.xpath: //span[@class='select2-match']
+[INFO] 08-06-2023 14:35:51 [Log] - Click on element By.xpath: //span[@class='select2-match']
+[INFO] 08-06-2023 14:35:51 [Log] - Verify element visible By.xpath: //div[@id='ajaxModalContent']//button[normalize-space()='Save']
+[INFO] 08-06-2023 14:35:51 [Log] - Click on element By.xpath: //div[@id='ajaxModalContent']//button[normalize-space()='Save']
+[INFO] 08-06-2023 14:35:51 [Log] - Driver for Screenshot: ChromeDriver: chrome on WINDOWS (15fa2b03949dcd10ec55e1a67bc20e43)
+[INFO] 08-06-2023 14:35:52 [Log] - Screenshot taken: Add client with vaild field
+[INFO] 08-06-2023 14:35:52 [Log] - Screenshot taken current URL: https://rise.fairsketch.com/clients
